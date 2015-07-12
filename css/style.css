@@ -12,3 +12,12 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+.card {
+  padding: 5px;
+}
+.card-reveal {
+  padding: 5px;
+}
+.card-content{
+  min-height: 200px;
+}
