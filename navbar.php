@@ -2,10 +2,10 @@
     <div class="nav-wrapper container"><a id="logo-container" href="index.html" class="brand-logo">Sebastain Realty</a>
       <ul class="right hide-on-med-and-down">
         <li><a href="index.php">Home</a></li>
-                <li><a href="listings.html">Properties and Rentals</a></li>
-                        <li><a href="sebastian.html">Sebastian Information</a></li>
-        <li><a href="about.html">About us and our staff</a></li>
-        <li><a href="contact.html">Contact</a></li>
+                <li><a href="listings.php">Properties and Rentals</a></li>
+                        <li><a href="sebastian.php">Sebastian Information</a></li>
+        <li><a href="about.php">About us and our staff</a></li>
+        <li><a href="contact.php">Contact</a></li>
       </ul>
       <ul id="nav-mobile" class="side-nav">
         <li><a href="#">Navbar Link</a></li>
