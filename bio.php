@@ -215,7 +215,7 @@
           <div class="col s8">
       <div id="biocard" class="card">
         <div class="card-content">
-          <span class="card-title activator grey-text text-darken-4">Marilyn Dorsette</span>
+          <span class="card-title activator grey-text text-darken-4">Jerry Kilian</span>
           <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jerry is orginally from Sarasota, Florida and has lived in Fellsmere with his wife Jeannette since 2000. He has retired from the U.S. Air Force and the U.S. Postal Sevice and received his Florida real estate license in 2009.</p>
 
         </div>
