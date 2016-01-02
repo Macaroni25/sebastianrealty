@@ -26,9 +26,6 @@
 include "bio.php"
 ?>
 
-
-
-
   <!--  Footer-->
 <?
 include "footer.php"

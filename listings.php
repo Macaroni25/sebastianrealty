@@ -18,7 +18,7 @@
    <?
    include "navbar.php"
    ?>
-   
+
   <!--  Footer-->
    <?
    include "footer.php"
