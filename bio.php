@@ -70,7 +70,7 @@
     </div>
   </div>
 </div>
-<!-- Jeff -->
+<!-- Marylin -->
 <div class="paddingbox">
   <div class="row">
     <div class="card-panel">
@@ -81,7 +81,7 @@
         <div class="card-content">
           <span class="card-title activator grey-text text-darken-4">Marilyn Dorsette</span>
           <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marilyn is orginally from Miami, Florida and has lived in Sebastian since 1994. She was married to her husband, Rodney for 51 years. Marilyn has been doing secretarial work most of her life and has been with Sebastian Realty since 1997.</p>
-          
+
         </div>
 
       </div>
@@ -104,8 +104,139 @@
     </div>
   </div>
 </div>
-<!--  -->
+<!-- Al Webster -->
+<div class="paddingbox">
+  <div class="row">
+    <div class="card-panel">
+        <p class="biotitle">Al Webster, Sales Associate, Realtor®</p>
+        <div class="row">
+          <div class="col s8">
+      <div id="biocard" class="card">
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4">Marilyn Dorsette</span>
+          <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marilyn is orginally from Miami, Florida and has lived in Sebastian since 1994. She was married to her husband, Rodney for 51 years. Marilyn has been doing secretarial work most of her life and has been with Sebastian Realty since 1997.</p>
 
-                        <!-- Gil -->
+        </div>
 
-                              <!-- Gil -->
+      </div>
+    </div>
+    <div class="col s4">
+      <div id="biocard" class="card">
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4">Contact Info</span>
+          <br>
+          <br>
+            <p>Email:  </p>
+            <br>
+            <p>Cell:  </p>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+    </div>
+  </div>
+</div>
+<!-- Ed Arens -->
+                        <div class="paddingbox">
+                          <div class="row">
+                            <div class="card-panel">
+                                <p class="biotitle">Marilyn Dorsette, Secretary</p>
+                                <div class="row">
+                                  <div class="col s8">
+                              <div id="biocard" class="card">
+                                <div class="card-content">
+                                  <span class="card-title activator grey-text text-darken-4">Marilyn Dorsette</span>
+                                  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marilyn is orginally from Miami, Florida and has lived in Sebastian since 1994. She was married to her husband, Rodney for 51 years. Marilyn has been doing secretarial work most of her life and has been with Sebastian Realty since 1997.</p>
+
+                                </div>
+
+                              </div>
+                            </div>
+                            <div class="col s4">
+                              <div id="biocard" class="card">
+                                <div class="card-content">
+                                  <span class="card-title activator grey-text text-darken-4">Contact Info</span>
+                                  <br>
+                                  <br>
+                                    <p>Email:  </p>
+                                    <br>
+                                    <p>Cell:  </p>
+
+                                </div>
+
+                              </div>
+                            </div>
+                          </div>
+                            </div>
+                          </div>
+                        </div>
+<!-- Susan McNabb -->
+                              <div class="paddingbox">
+                                <div class="row">
+                                  <div class="card-panel">
+                                      <p class="biotitle">Marilyn Dorsette, Secretary</p>
+                                      <div class="row">
+                                        <div class="col s8">
+                                    <div id="biocard" class="card">
+                                      <div class="card-content">
+                                        <span class="card-title activator grey-text text-darken-4">Marilyn Dorsette</span>
+                                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marilyn is orginally from Miami, Florida and has lived in Sebastian since 1994. She was married to her husband, Rodney for 51 years. Marilyn has been doing secretarial work most of her life and has been with Sebastian Realty since 1997.</p>
+
+                                      </div>
+
+                                    </div>
+                                  </div>
+                                  <div class="col s4">
+                                    <div id="biocard" class="card">
+                                      <div class="card-content">
+                                        <span class="card-title activator grey-text text-darken-4">Contact Info</span>
+                                        <br>
+                                        <br>
+                                          <p>Email:  </p>
+                                          <br>
+                                          <p>Cell:  </p>
+
+                                      </div>
+
+                                    </div>
+                                  </div>
+                                </div>
+                                  </div>
+                                </div>
+                              </div>
+<!--Jerry Kilian-->
+<div class="paddingbox">
+  <div class="row">
+    <div class="card-panel">
+        <p class="biotitle">Jerry Kilian, Sale Associate, Realtor® </p>
+        <div class="row">
+          <div class="col s8">
+      <div id="biocard" class="card">
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4">Marilyn Dorsette</span>
+          <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jerry is orginally from Sarasota, Florida and has lived in Fellsmere with his wife Jeannette since 2000. He has retired from the U.S. Air Force and the U.S. Postal Sevice and received his Florida real estate license in 2009.</p>
+
+        </div>
+
+      </div>
+    </div>
+    <div class="col s4">
+      <div id="biocard" class="card">
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4">Contact Info</span>
+          <br>
+          <br>
+            <p>Email:  </p>
+            <br>
+            <p>Cell:  772 538 9273</p>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+    </div>
+  </div>
+</div>
