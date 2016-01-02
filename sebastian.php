@@ -83,7 +83,8 @@ include "navbar.php"
   <div class="section">
   </div>
   </div>
-  
+
+<!--  Footer-->
   <?
   include "footer.php"
   ?>

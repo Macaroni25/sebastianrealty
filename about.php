@@ -8,16 +8,18 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection" />
   <link href="css/aboutstyle.css" type="text/css" rel="stylesheet" media="screen,projection" />
-  
+
 </head>
 <body>
+    <!-- Navbar  -->
 <?
  include "navbar.php"
 ?>
+
   <div class="section no-pad-bot" id="index-banner">
     <div class="container">
       <br>
-      <h1 class="header center orange-text">About us</h1>
+      <h1 class="header center orange-text">Our Staff</h1>
     </div>
   </div>
   <div class="container">
@@ -59,33 +61,11 @@
   <div class="section">
   </div>
   </div>
-  <footer class="page-footer orange">
-    <div class="container">
-      <div class="row">
-        <div class="col l6 s12">
-          <h5 class="white-text">Company Bio</h5>
-          <p class="grey-text text-lighten-4">We are a team of college students working on this project like it's our full time job. Any amount would help support and continue development on this project and is greatly appreciated.</p>
-        </div>
-        <div class="col l3 s12">
-          <br>
-        </div>
-        <div class="col l3 s12">
-          <h5 class="white-text">Connect</h5>
-          <ul>
-            <li><a class="white-text" href="#!">Link 1</a></li>
-            <li><a class="white-text" href="#!">Link 2</a></li>
-            <li><a class="white-text" href="#!">Link 3</a></li>
-            <li><a class="white-text" href="#!">Link 4</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div class="footer-copyright">
-      <div class="container">
-        Made by <a class="orange-text text-lighten-3" href="#">Alex Weininger</a>
-      </div>
-    </div>
-  </footer>
+
+  <!--  Footer-->
+<?
+include "footer.php"
+?>
   <!--  Scripts-->
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="js/materialize.min.js"></script>
