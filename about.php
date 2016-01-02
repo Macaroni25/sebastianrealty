@@ -21,6 +21,8 @@
       <h1 class="header center orange-text">About us and our Staff</h1>
     </div>
   </div>
+  <br>
+  <br>
 
 <?
 include "bio.php"
