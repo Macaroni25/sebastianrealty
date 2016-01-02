@@ -21,7 +21,6 @@
       <h1 class="header center orange-text">Our Staff</h1>
     </div>
   </div>
-  <div class="container">
     <div class="row">
       <div class="card-panel">
           <p class="biotitle">Gilbert J. Swiger, Broker and Owner of Sebastian Realty, Inc. Realtor®, GRI, CRS, IBBA and BBF</p>
@@ -57,8 +56,7 @@
       </div>
     </div>
 
-  <div class="section">
-  </div>
+
 
 
   <!--  Footer-->
