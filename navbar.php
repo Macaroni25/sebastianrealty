@@ -14,19 +14,3 @@
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
     </div>
   </nav>
-  <div class="section no-pad-bot" id="index-banner">
-    <div class="container">
-      <br>
-      <br>
-      <h1 class="header center orange-text">Sebastian Realty</h1>
-      <div class="row center">
-        <h5 class="header col s12 light">Sixty years of Real Estate expierence, at your service.</h5>
-      </div>
-      <div class="row center">
-        <a href="about.php" id="download-button" class="btn-large waves-effect waves-light orange">Learn More</a>
-      </div>
-      <br>
-      <br>
-
-    </div>
-  </div>
