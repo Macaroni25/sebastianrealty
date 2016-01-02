@@ -17,7 +17,6 @@
 ?>
 
   <div class="section no-pad-bot" id="index-banner">
-    <div class="container">
       <br>
       <h1 class="header center orange-text">Our Staff</h1>
     </div>
@@ -60,7 +59,7 @@
 
   <div class="section">
   </div>
-  </div>
+
 
   <!--  Footer-->
 <?
