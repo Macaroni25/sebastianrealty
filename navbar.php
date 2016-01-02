@@ -1,4 +1,4 @@
-<div class="container">
+
 <nav class="light-blue lighten-1" role="navigation">
     <div class="nav-wrapper container"><a id="logo-container" href="index.html" class="brand-logo">Sebastain Realty</a>
       <ul class="right hide-on-med-and-down">
@@ -30,4 +30,3 @@
 
     </div>
   </div>
-</div>
