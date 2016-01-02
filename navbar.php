@@ -23,7 +23,7 @@
         <h5 class="header col s12 light">Sixty years of Real Estate expierence, at your service.</h5>
       </div>
       <div class="row center">
-        <a href="about.html" id="download-button" class="btn-large waves-effect waves-light orange">Learn More</a>
+        <a href="about.php" id="download-button" class="btn-large waves-effect waves-light orange">Learn More</a>
       </div>
       <br>
       <br>
