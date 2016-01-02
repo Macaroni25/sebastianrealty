@@ -44,3 +44,8 @@
   color: orange;
   text-decoration: none;
 }
+
+.paddingbox {
+padding-left: 15px;
+padding-right: 15px;
+}
