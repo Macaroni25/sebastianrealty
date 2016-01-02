@@ -1,3 +1,4 @@
+<div class="container">
 <nav class="light-blue lighten-1" role="navigation">
     <div class="nav-wrapper container"><a id="logo-container" href="index.html" class="brand-logo">Sebastain Realty</a>
       <ul class="right hide-on-med-and-down">
@@ -19,7 +20,7 @@
       <br>
       <h1 class="header center orange-text">Sebastian Realty</h1>
       <div class="row center">
-        <h5 class="header col s12 light">Fifty years of Real Estate expierence, at your service.</h5>
+        <h5 class="header col s12 light">Sixty years of Real Estate expierence, at your service.</h5>
       </div>
       <div class="row center">
         <a href="about.html" id="download-button" class="btn-large waves-effect waves-light orange">Learn More</a>
@@ -29,3 +30,4 @@
 
     </div>
   </div>
+</div>

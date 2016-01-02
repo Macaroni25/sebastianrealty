@@ -12,9 +12,11 @@
 </head>
 
 <body>
-  <?
-  include "navbar.php"
-  ?>
+  <!-- Navbar  -->
+<?
+include "navbar.php"
+?>
+
   <div class="section no-pad-bot" id="index-banner">
     <div class="container">
       <br>
@@ -74,7 +76,7 @@
   <div class="section">
 
 
-   
+
   </div>
   <br>
   <br>

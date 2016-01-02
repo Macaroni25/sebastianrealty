@@ -13,18 +13,11 @@
 </head>
 
 <body>
-  <nav class="light-blue lighten-1" role="navigation">
-    <div class="nav-wrapper container"><a id="logo-container" href="index.html" class="brand-logo">Sebastain Realty</a>
-      <ul class="right hide-on-med-and-down">
-        <li><a href="#">About</a></li>
-      </ul>
+  <!-- Navbar  -->
+<?
+include "navbar.php"
+?>
 
-      <ul id="nav-mobile" class="side-nav">
-        <li><a href="#">Navbar Link</a></li>
-      </ul>
-      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
-    </div>
-  </nav>
   <div class="section no-pad-bot" id="index-banner">
     <div class="container">
       <br>

@@ -13,6 +13,7 @@
 </head>
 
 <body>
+    <!-- Navbar  -->
 <?
 include "navbar.php"
 ?>
