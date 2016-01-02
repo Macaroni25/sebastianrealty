@@ -18,6 +18,15 @@
 include "navbar.php"
 ?>
 
+<div class="section no-pad-bot" id="index-banner">
+  <div class="container">
+    <br>
+    <br>
+    <h1 class="header center orange-text">Contact Us</h1>
+    <br>
+  </div>
+</div>
+
   <!--  Footer-->
   <?
 include "footer.php"

@@ -18,7 +18,7 @@
 
   <div class="section no-pad-bot" id="index-banner">
       <br>
-      <h1 class="header center orange-text">Our Staff</h1>
+      <h1 class="header center orange-text">About us and our Staff</h1>
     </div>
   </div>
 
