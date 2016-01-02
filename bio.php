@@ -71,7 +71,39 @@
   </div>
 </div>
 <!-- Jeff -->
+<div class="paddingbox">
+  <div class="row">
+    <div class="card-panel">
+        <p class="biotitle">Marilyn Dorsette, Secretary</p>
+        <div class="row">
+          <div class="col s8">
+      <div id="biocard" class="card">
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4">Marilyn Dorsette</span>
+          <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marilyn is orginally from Miami, Florida and has lived in Sebastian since 1994. She was married to her husband, Rodney for 51 years. Marilyn has been doing secretarial work most of her life and has been with Sebastian Realty since 1997.</p>
+          
+        </div>
 
+      </div>
+    </div>
+    <div class="col s4">
+      <div id="biocard" class="card">
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4">Contact Info</span>
+          <br>
+          <br>
+            <p>Email:  </p>
+            <br>
+            <p>Cell:  </p>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+    </div>
+  </div>
+</div>
 <!--  -->
 
                         <!-- Gil -->
